@@ -1,0 +1,24 @@
+REM ## Signature Block
+REM Author: Hudson,Ethan
+REM Email: <Artalius@Zyphorq.com>
+REM Date: 2024-FEB-14
+REM
+REM ## Revision History
+REM | Date       | Version | Description            | Author        | Team         |
+REM |------------|---------|------------------------|---------------|--------------|
+REM | 2024-FEB-14| 1.0     | Initial Release        | Hudson,Ethan  | Zyphorq      |
+REM |            | x.x     |                        |               |              |
+REM |            | x.x     |                        |               |              |
+REM |            | x.x     |                        |               |              |
+REM |            | x.x     |                        |               |              |
+REM |            | x.x     |                        |               |              |
+REM |            | x.x     |                        |               |              |
+REM
+REM ## No Warranty
+REM This code is provided "as is" without warranty of any kind, either expressed or implied, including, but not limited to, the implied warranties of merchantability and fitness for a particular purpose.
+REM The entire risk of using the code is with the user. In no event will the author be liable for any damages, including any general, special, incidental, or consequential damages arising out of the use or inability to use the code (including but not limited to loss of data or data being rendered inaccurate or losses sustained by you or third parties).
+REM ## Use at Your Own Risk
+REM You are responsible for ensuring that any code provided here is suitable for your own use and complies with any applicable policies, guidelines, or regulations. Use at your own risk.
+REM ##Notes on Features or Use
+REM Use !VAR! instead of %VAR% at all times to leverage DelayedExpansion
+REM     This allows for nesting Variables, and creating new ones from existing ones
