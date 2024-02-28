@@ -1,0 +1,1 @@
+powershell -command "Set-ExecutionPolicy Bypass -Scope Process -Force; C:\lock.ps1"
