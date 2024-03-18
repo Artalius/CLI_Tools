@@ -1,3 +1,5 @@
+#Find file locked
+
 To find PID and executable that is "locking" or "holding" a file
 
 Edit target file in lock.ps1>line #1
@@ -10,3 +12,6 @@ CMD file is needed to bypass any disabling of PowerShell scripts
 
 
 Report Output will be found at location given at end of execution.
+
+UPDATE:  
+Linux `SH` file provided untested.
