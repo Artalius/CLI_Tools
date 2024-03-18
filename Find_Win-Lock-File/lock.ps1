@@ -1,4 +1,10 @@
+# Define the variable with a default value
 $fileToCheck = "C:\log\selling_log.txt"
+
+# Check if an input argument is provided, if yes, use it instead
+if ($args.Count -gt 0) {
+    $fileToCheck = $args[0]
+}
 $folderToCheck = Get-Item $fileToCheck | ForEach-Object { $_.Directory.FullName }
 
 # Get the directory where the script is located
