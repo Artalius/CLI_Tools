@@ -15,12 +15,6 @@ $portsAndProtocols = @(
     @{ Protocol = 'HTTP'; Port = 80; },
     @{ Protocol = 'HTTPS'; Port = 443; },
     @{ Protocol = 'CIFS'; Port = 445; },
-    @{ Protocol = 'HDLC'; Port = 1025; },
-    @{ Protocol = 'PS Busing'; Port = 1232; },
-    @{ Protocol = 'RBS/AMPQ'; Port = 5671; },
-    @{ Protocol = 'HTTP RBS'; Port = 7080; },
-    @{ Protocol = 'HTTPS RBS'; Port = 7081; },
-    @{ Protocol = 'AppServer'; Port = 7090; },
     @{ Protocol = 'VNC'; Port = 5900; },
     @{ Protocol = 'RDP'; Port = 3389; }
 )
