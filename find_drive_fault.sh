@@ -2,6 +2,11 @@
 
 
     echo -e "Zyphorq Simple LED Flasher "
+    echo -e " "
+    echo -e " Find any drive 'FAULTED' via"
+    echo -e " zpool, and get it's realworld"
+    echo -e " location to blink "
+    echo -e " "
     echo -e "For SuperMicro X9SCM-F 4U  "
     echo -e "Running ZFS (TrueNAS Scale)"
     echo -e "  Controller type : SAS2008"
